@@ -4,7 +4,7 @@ A simple Tic-Tac-Toe app made in React Native.
 
 ## Screenshots
 
-![alt text](./start.png)
-![alt text](./game.png)
-![alt text](./tie.png)
-![alt text](./win.png)
+![start](./start.png)
+![game](./game.png)
+![tie](./tie.png)
+![win](./win.png)
